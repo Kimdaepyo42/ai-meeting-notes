@@ -10,3 +10,4 @@ AI Meeting Notes summarizes internal meetings, extracts decisions, and creates a
 - “다음 주 초” means Monday morning unless Kim says otherwise.
 - Summary changes should be tested on at least 10 sample meetings before release.
 - UI-only note formatting changes do not require Kim's approval.
+ 
